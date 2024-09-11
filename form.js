@@ -15,5 +15,5 @@ Silakan ubah value dari LOCAL dan CUPANG sesuka hati Anda.
 
 Semoga hari Anda menyenangkan. 
 */
-export const LOCAL = "Anjay Mabar"
-export const CUPANG = "BLUKBLUB BLUK BULBLUB BULKBULK | BULBULK BLUK BULKBLUK BULKBLUB BLUK BULKBUL BLUKBULK"
+export const LOCAL = ""
+export const CUPANG = "BLUKBLUB BLUK BULBLUK | BULBULK BLUK BULKBLUK BULKBLUB BLUK BULKBUL BLUKBULK"
